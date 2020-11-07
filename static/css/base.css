@@ -1,0 +1,28 @@
+/* *{
+    border: 1px solid black;
+} */
+
+.logo{
+    font-size: xx-large;
+    height: 100%;
+    width: 100%;
+    float: left;
+}
+
+#header {
+    background-color: rgb(159, 228, 91);
+    margin: 2px;
+    padding: 2px;
+    
+}
+
+.menu li {
+    float: left;
+    margin-left: 28px;
+    margin-right: 22px;
+}
+
+.menu {
+    float: top;
+    width: 60%;
+}
