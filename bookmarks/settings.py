@@ -28,9 +28,8 @@ DEBUG = True
 
 THUMBNAIL_DEBUG = True
 
-ALLOWED_HOSTS = ['mysite.com', 'localhost',
-                 '127.0.0.1', '1f7178c3bb60.ngrok.io']
-
+# ALLOWED_HOSTS = ['mysite.com', 'localhost','127.0.0.1', '1f7178c3bb60.ngrok.io']
+ALLOWED_HOSTS = [".herokuapp.com","socialweb"]
 
 # ALLOWED_HOSTS = []
 
